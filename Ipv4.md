@@ -22,3 +22,10 @@ The 32-bit IPv4 addresses are most often expressed in dotted decimal notation, i
 11010000 01100010 11000000 10101010 = 208.98.192.170
 01110110 00001111 11110000 01010101 = 118.15.240.85
 00110011 11001100 00111100 00111011 = 51.204.60.59
+
+## IPv4 Subnetting
+Because of the physical and architectural limitations on the size of networks, you often must break large networks into smaller subnetworks. Within a network, each wire or ring requires its own network number and identifying subnet address.
+
+Figure 1 shows two subnets in a network.
+
+![g017034](https://user-images.githubusercontent.com/103209557/166676508-39ce7a30-4abd-41d5-b0a6-b0e86b605545.gif)
